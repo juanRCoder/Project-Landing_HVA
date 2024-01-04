@@ -11,7 +11,7 @@ footer > .container {
 }
 .dedicacion > p {
   color: #fff;
-  font-family: Inter;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   line-height: 23px;
 }
@@ -28,19 +28,20 @@ ul {
 }
 .ul > li > a {
   color: #fff;
-  font-family: Inter;
+  font-family: "Inter", sans-serif;
   font-size: 17px;
   line-height: 29px;
 }
 .h3 {
   display: flex;
   color: #fff;
-  font-family: Inter;
+  font-family: "Inter", sans-serif;
   font-size: 25px;
   padding: 25px 0px;
 }
 .copyright {
   width: 100%;
+  font-family: "Inter", sans-serif;
   text-align: center;
   color: #fff;
   background-color: #333;
@@ -52,6 +53,7 @@ ul {
 .enlaces,
 .dedicacion {
   width: 33.3%;
+  font-family: "Inter", sans-serif;
 }
 @media (max-width: 1024px) {
   .h3 {

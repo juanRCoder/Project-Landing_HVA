@@ -32,7 +32,7 @@
 }
 .enlace {
   color: #333;
-  font-family: Inter;
+  font-family: 'Inter', sans-serif;
   font-size: 21px;
   font-style: normal;
   font-weight: 800;
@@ -45,18 +45,17 @@
 .bgFront > h1 {
   color: #333;
   text-align: center;
-  font-family: Istok Web;
-  font-size: 99px;
+  font-family: 'Istok Web', sans-serif;
+  font-size: 84px;
   font-style: normal;
   font-weight: 700;
   line-height: normal;
-  margin-top: 28px;
 }
 .bgFront > h5 {
   color: #333;
   text-align: center;
-  font-family: Istok Web;
-  font-size: 28px;
+  font-family: 'Istok Web', sans-serif;
+  font-size: 23px;
   font-style: italic;
   font-weight: 400;
   line-height: normal;
@@ -78,7 +77,7 @@
   border-radius: 13px;
   background-color: #289c33;
   text-align: center;
-  font-family: Inter;
+  font-family: 'Inter', sans-serif;
   font-size: 18px;
   font-weight: 700;
   cursor: pointer;

@@ -16,7 +16,7 @@
 .titleAcercaDe {
   color: #333;
   text-align: center;
-  /* font-family: Istok Web; */
+  font-family: "Istok Web", sans-serif;
   font-size: 43px;
   font-weight: 700;
   padding-top: 24px;
@@ -24,7 +24,7 @@
 .paragraph {
   color: #555;
   text-align: justify;
-  /* font-family: Inter; */
+  font-family: "Inter", sans-serif;
   width: 90%;
   padding-top: 22px;
   margin: auto;
@@ -59,6 +59,7 @@ img {
   }
   .paragraph > li {
     padding: 7px 0;
+    font-size: 16px;
   }
   .paragraph {
     font-size: 17px;

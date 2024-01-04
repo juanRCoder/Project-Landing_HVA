@@ -2,7 +2,7 @@ import "./Front.css";
 
 function Front() {
   return (
-    <section className="bgFront">
+    <section className="bgFront" id="front">
       <nav className="navegacion">
         <ul>
           <li>

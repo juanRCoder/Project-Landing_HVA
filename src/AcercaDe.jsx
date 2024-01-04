@@ -6,25 +6,26 @@ import img1 from "./assets/img1.jpg";
 function AcercaDe() {
   return (
     <section className="section" id="inpiracion">
-      <h1 className="titleAcercaDe">Acerca de</h1>
+      <h1 className="titleAcercaDe">Inspiración</h1>
       <ul className="paragraph">
         <li>
-            Inspiracion a que nos llevo a crear este proyecto Inspiracion a que
-            crear Inspiracion a que nos llevo a Inspiracion a que nos llevo a
-            crear Inspiracion a que nos llevo a crear Inspiracion Inspiracion a
-            que nos llevo a crear Inspiracion llevo a crear asdasd Inspiracion a
-            que nos crear Inspiracion a que nos llevo a crear Inspiracion
-            Inspiracion a que nos llevo a crear In crear Inspiracion a que nos
-            llevo a crear Inspiracion Inspiracion a que nos llevo a crear In
+          Imagina tener una aplicación web que esté disponible las 24 horas del
+          día, los 7 días de la semana, lista para brindar asistencia
+          instantánea a tus clientes. Este asistente virtual puede responder
+          preguntas frecuentes, proporcionar información sobre servicios y
+          comodidades del hotel, e incluso ayudar con reservas y consultas
+          específicas. Con esta herramienta tecnológica, podrás aliviar la carga
+          de atención al cliente en tu personal, permitiéndoles enfocarse en
+          tareas más estratégicas y personalizadas.
         </li>
         <li>
-          Inspiracion a que nos llevo a crear Inspiracion a que nos llevo a
-          crear Inspiracion a que nos llevo a Inspiracion a que nos llevo a
-          crear Inspiracion a que nos llevo a crear Inspiracion Inspiracion a
-          que nos llevo a cre crear Inspiracion a que nos llevo a crear
-          Inspiracion Inspiracion a que nos llevo a crear In crear Inspiracion a
-          que nos llevo a crear Inspiracion Inspiracion a que nos llevo a crear
-          In
+          No solo se estara ofreciendo un servicio excepcional a los huéspedes,
+          sino que también estarás destacando entre la competencia al
+          implementar soluciones innovadoras. La programación de este asistente
+          virtual hotelero es un paso audaz hacia el futuro de la industria
+          hotelera. Además, este asistente virtual puede aprender y adaptarse
+          con el tiempo, mejorando continuamente su capacidad para brindar
+          respuestas precisas y relevantes.
         </li>
       </ul>
       <div className="imagesContainer">

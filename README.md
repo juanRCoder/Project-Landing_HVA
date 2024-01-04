@@ -53,7 +53,7 @@ These are the project's designs optimized for both mobile and tablet viewing, co
 >
 >> Clone the repo
 ```sh
- git clone https://github.com/juanRCode/Project-FAQ-accordion.git
+ git clone https://github.com/juanRCoder/Project-Landing_HVA.git
 ```
 
 >> Install NPM packages
@@ -73,11 +73,10 @@ These are the project's designs optimized for both mobile and tablet viewing, co
 
 #### Fonts:
 
-Link: [https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;600;700&display=swap](https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;600;700&display=swap)
+Link: [https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300&family=Istok+Web:ital,wght@0,400;0,700;1,400&display=swap](https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300&family=Istok+Web:ital,wght@0,400;0,700;1,400&display=swap)
 
-1. WorkSans-Regular-wght@400
-2. WorkSans-SemiBold-wght@600
-3. WorkSans-Bold-wght@700
+1. Inter-wght@100;200;300
+2. Istok Web-wght@0,400;0,700
 
 ## Contact
 

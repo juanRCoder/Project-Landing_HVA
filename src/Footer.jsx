@@ -7,9 +7,9 @@ function Footer() {
         <div className="contactos">
           <h3 className="h3">Contactos:</h3>
           <ul className="ul">
-            <li>+51 956402456 (Juan Ramirez)</li>
-            <li>+51 123456789 (Oscar Morales)</li>
-            <li>+51 123456789 (Jhonny Arana)</li>
+            <li>+51 956 402 456 (Juan Ramirez)</li>
+            <li>+51 924 119 907 (Oscar Morales)</li>
+            <li>+51 992 295 394 (Jhonny Arana)</li>
           </ul>
         </div>
         <div className="dedicacion">

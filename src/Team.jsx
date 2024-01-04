@@ -1,4 +1,6 @@
 import juanPhoto from "./assets/juan.jpeg";
+import oscarPhoto from "./assets/oscar.jpeg";
+import JhonyPhoto from "./assets/jhony.jpeg";
 import "./Team.css";
 
 function Team() {
@@ -14,8 +16,8 @@ function Team() {
             <h1>Juan Ramirez</h1>
             <h5>Desarrollador back-end</h5>
             <p>
-              Pequeña narracion de lo que hizo durante el proyecto
-              proyectoproyectoproyectoproyecto Pequeña narracion de lo que
+              Conectar la web con la bases de datos , generar solicitudes y
+              manejar la lógica detrás del proyecto.
             </p>
             <div className="redesDeveloper">
               <span>
@@ -40,57 +42,59 @@ function Team() {
           </div>
           <div className="boxDeveloper">
             <div className="photoDeveloper">
-              <img src={juanPhoto} alt="juan" title="juanRCoder" />
+              <img src={oscarPhoto} alt="0skarmp" title="0skarmp" />
             </div>
-            <h1>Juan Ramirez</h1>
-            <h5>Desarrollador back-end</h5>
+            <h1>Oscar Morales</h1>
+            <h5>Desarrollador front-end</h5>
             <p>
-              Pequeña narracion de lo que hizo durante el proyecto
-              proyectoproyectoproyectoproyecto Pequeña narracion de lo que
+              Diseñar y generar las interacciones que se va a mostrar, botones,
+              gráficos con los cuales el huésped va interactuar.
             </p>
             <div className="redesDeveloper">
               <span>
-                <a href="" target="_BLANK">
+                <a
+                  href="https://www.linkedin.com/in/oskarmorales/"
+                  target="_BLANK"
+                >
                   Linkedin
                 </a>
               </span>
               <span>
-                <a href="" target="_BLANK">
+                <a href="https://github.com/0skarmp" target="_BLANK">
                   Github
                 </a>
               </span>
               <span className="twitter">
-                <a href="" target="_BLANK">
-                  Twitter
-                </a>
+                <a href="">Twitter</a>
               </span>
             </div>
           </div>
           <div className="boxDeveloper">
             <div className="photoDeveloper">
-              <img src={juanPhoto} alt="juan" title="juanRCoder" />
+              <img src={JhonyPhoto} alt="Jharanza" title="Jharanza" />
             </div>
-            <h1>Juan Ramirez</h1>
-            <h5>Desarrollador back-end</h5>
+            <h1>Jhonny Arana</h1>
+            <h5>Database Administrator</h5>
             <p>
-              Pequeña narracion de lo que hizo durante el proyecto
-              proyectoproyectoproyectoproyecto Pequeña narracion de lo que
+              Diseñar la base de datos, las consultas y las búsquedas de pedidos
+              de los huespedes en el hotel.
             </p>
             <div className="redesDeveloper">
               <span>
-                <a href="" target="_BLANK">
+                <a
+                  href="https://www.linkedin.com/in/jhony-arana-carranza-a103b350/"
+                  target="_BLANK"
+                >
                   Linkedin
                 </a>
               </span>
               <span>
-                <a href="" target="_BLANK">
+                <a href="https://github.com/Jharanza" target="_BLANK">
                   Github
                 </a>
               </span>
               <span className="twitter">
-                <a href="" target="_BLANK">
-                  Twitter
-                </a>
+                <a href="">Twitter</a>
               </span>
             </div>
           </div>

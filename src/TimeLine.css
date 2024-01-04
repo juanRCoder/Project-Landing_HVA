@@ -11,7 +11,7 @@
 .titleTimeLine {
   color: #333;
   text-align: center;
-  /* font-family: Istok Web; */
+  font-family: "Istok Web", sans-serif;
   font-size: 43px;
   font-style: normal;
   font-weight: 700;
@@ -44,7 +44,7 @@ hr {
   padding: 8px;
   color: #333;
   text-align: left;
-  /* font-family: Istok Web; */
+  font-family: "Istok Web", sans-serif;
   font-size: 19px;
   font-weight: bold;
 }
@@ -55,7 +55,7 @@ hr {
   margin: auto;
   color: #333;
   text-align: left;
-  /* font-family: Istok Web; */
+  font-family: "Istok Web", sans-serif;
   font-size: 18px;
   font-style: normal;
   font-weight: 700;
@@ -64,7 +64,7 @@ hr {
 .text {
   color: #333;
   text-align: justify;
-  /* font-family: Inter; */
+  font-family: "Inter", sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 300;
@@ -74,7 +74,7 @@ hr {
 }
 .boxButton {
   width: 100%;
-  /* font-family: Istok Web; */
+  font-family: "Inter", sans-serif;
   font-size: 17px;
   margin-top: 42px;
   border: none;
