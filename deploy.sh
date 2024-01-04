@@ -84,7 +84,7 @@ git add -A
 git commit -m "deploy"
 
 
-git push -f git@github.com:juanRCoder/Project-Landing_Page_HVA.git main:gh-pages
+git push -f git@github.com:juanRCoder/Project-Landing_HVA.git main:gh-pages
 
 
 cd -
