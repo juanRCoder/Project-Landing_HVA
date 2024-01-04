@@ -1,6 +1,6 @@
 <div align='center'>
  <h1><em>💻Landing Page HVA 🚀</em></h1>
-  <img src="./src/assets/screenComputer.png" alt="Logo" width="800" height="400" >
+  <img src="./src/assets/screenComputer.png" alt="Logo" width="600" height="400" >
  <p>  </p>
  <p>  </p>
 <p align='justify'>
