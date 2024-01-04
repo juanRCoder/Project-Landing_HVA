@@ -1,0 +1,136 @@
+.sectionTimeLine {
+  position: relative;
+  height: 100%;
+  background: linear-gradient(
+    270deg,
+    #a8ff78 0%,
+    #78ffd6 99.99%,
+    rgba(110, 245, 119, 0) 100%
+  );
+}
+.titleTimeLine {
+  color: #333;
+  text-align: center;
+  /* font-family: Istok Web; */
+  font-size: 43px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+hr {
+  width: 92%;
+  border: 1px groove #555;
+  margin: auto;
+  margin-bottom: 40px;
+  box-shadow: 0px 7px 10px;
+}
+.containerTime {
+  width: 85%;
+  margin: auto;
+}
+.sectionTime {
+  display: flex;
+  margin: 28px 0px;
+}
+.sectionTime:last-child {
+  margin-bottom: 0px;
+}
+.sectionTime:first-child {
+  margin-top: 22px;
+}
+.date {
+  width: 38%;
+  margin: auto;
+  padding: 8px;
+  color: #333;
+  text-align: left;
+  /* font-family: Istok Web; */
+  font-size: 19px;
+  font-weight: bold;
+}
+.title {
+  width: 42%;
+  text-align: right;
+  padding: 21px 0px 21px 0px;
+  margin: auto;
+  color: #333;
+  text-align: left;
+  /* font-family: Istok Web; */
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.text {
+  color: #333;
+  text-align: justify;
+  /* font-family: Inter; */
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 300;
+  padding-left: 22px;
+  margin: auto;
+  line-height: normal;
+}
+.boxButton {
+  width: 100%;
+  /* font-family: Istok Web; */
+  font-size: 17px;
+  margin-top: 42px;
+  border: none;
+  background-color: transparent;
+  margin: 36px 0px;
+}
+.boxButton > a {
+  cursor: pointer;
+  color: #fff;
+  background-color: #333;
+  padding: 8px 13px;
+  border-radius: 7px;
+  text-decoration: none;
+}
+.boxButton > a:hover {
+  box-shadow: 0 0 3px #333;
+  text-shadow: 0 0 3px #fff;
+}
+@media (max-width: 1024px) {
+  .titleTimeLine {
+    font-size: 30px;
+  }
+  .date {
+    width: 50%;
+    font-size: 14px;
+    padding: 0px;
+  }
+  .title {
+    width: 65%;
+    font-size: 16px;
+    text-align: center;
+  }
+  .text {
+    text-align: center;
+    font-size: 13px;
+  }
+}
+@media (max-width: 769px) {
+  .sectionTime {
+    flex-direction: column;
+  }
+  .sectionTimeLine {
+    height: 100%;
+  }
+  .date {
+    width: 100%;
+    font-size: 14px;
+    padding: 0px;
+  }
+  .title {
+    width: 65%;
+    font-size: 16px;
+    text-align: center;
+    padding: 10px 0px;
+  }
+  .boxButton {
+    margin: 30px 0px;
+  }
+}

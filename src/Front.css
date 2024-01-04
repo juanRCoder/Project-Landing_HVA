@@ -1,0 +1,147 @@
+.bgFront {
+  height: 100%;
+  background: linear-gradient(
+    270deg,
+    #a8ff78 0%,
+    #78ffd6 99.99%,
+    rgba(110, 245, 119, 0) 100%
+  );
+}
+.navegacion {
+  width: 90%;
+  margin: auto;
+  height: 90px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.navegacion > ul {
+  list-style: none;
+  display: flex;
+}
+.navegacion > ul > li {
+  color: #000;
+  margin: 0px 30px;
+}
+.frontImage {
+  width: 100%;
+  height: 158px;
+  object-fit: contain;
+  box-shadow: none;
+  margin-top: 55px;
+}
+.enlace {
+  color: #333;
+  font-family: Inter;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 800;
+  text-decoration: none;
+}
+.enlace:hover {
+  text-decoration: underline;
+  text-decoration-color: #333;
+}
+.bgFront > h1 {
+  color: #333;
+  text-align: center;
+  font-family: Istok Web;
+  font-size: 99px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: 28px;
+}
+.bgFront > h5 {
+  color: #333;
+  text-align: center;
+  font-family: Istok Web;
+  font-size: 28px;
+  font-style: italic;
+  font-weight: 400;
+  line-height: normal;
+}
+.CallAction {
+  outline: none;
+  border: none;
+}
+.boxButton2 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0px;
+}
+.boxButton2 > button {
+  padding: 10px 30px;
+  margin: 40px 0px;
+  border-radius: 13px;
+  background-color: #289c33;
+  text-align: center;
+  font-family: Inter;
+  font-size: 18px;
+  font-weight: 700;
+  cursor: pointer;
+  transition: box-shadow 0.5s ease;
+}
+.boxButton2 > button:hover {
+  text-shadow: 0 0 8px white;
+  box-shadow: 0px 0px 10px 3px #289c33;
+}
+.boxButton2 > button > a {
+  color: #fff;
+  text-decoration: none;
+}
+@media (max-width: 1024px) {
+  .enlace {
+    font-size: 18px;
+  }
+  .bgFront > h1 {
+    font-size: 70px;
+  }
+  .bgFront > h5 {
+    font-size: 22px;
+  }
+  .boxButton2 > button {
+    margin: 30px 0px;
+  }
+}
+@media (max-width: 769px) {
+  .navegacion {
+    width: 100%;
+    height: 90px;
+    display: flex;
+    align-items: center;
+  }
+  .navegacion > ul > li {
+    margin: 0px;
+  }
+  .navegacion > ul {
+    padding: 0px;
+    margin: 0px;
+  }
+  .enlace {
+    font-size: 18px;
+    margin: 0px 12px;
+  }
+}
+@media (max-width: 481px) {
+  .navegacion > ul {
+    flex-direction: column;
+  }
+  .navegacion > ul > li {
+    margin: 5px 0px;
+    text-align: center;
+  }
+  .navegacion {
+    height: 150px;
+  }
+  .bgFront > h1 {
+    margin-top: 0px;
+    font-size: 60px;
+  }
+  .bgFront > h5 {
+    font-size: 23px;
+    margin-top: 20px;
+  }
+}
