@@ -96,6 +96,7 @@ Oscar Morales
 > Linkedin: [@Oskar Morales](https://www.linkedin.com/in/oskarmorales/)
 > Github: [0skarmp](https://github.com/0skarmp)
 
+## Link
 Project Link: [https://juanrcoder.github.io/Project-FAQ-accordion/](https://juanrcoder.github.io/Project-FAQ-accordion/)
 
 <!--
