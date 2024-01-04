@@ -81,23 +81,20 @@ Link: [https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;600;700&displ
 
 ## Contact
 
-Juan Ramirez
-
+> Juan Ramirez
 > Linkedin : [@juan Ramirez](https://www.linkedin.com/in/juan-ramirez-490b84271/)
 > Instagram : [@juanrcoder](https://www.instagram.com/juanrcoder/)
 
-Jhony Arana
-
+> Jhony Arana
 > Linkedin: [@Jhony Arana](https://www.linkedin.com/in/jhony-arana-carranza-a103b350/)
 > Github: [Jharanza](https://github.com/Jharanza)
 
-Oscar Morales
-
+> Oscar Morales
 > Linkedin: [@Oskar Morales](https://www.linkedin.com/in/oskarmorales/)
 > Github: [0skarmp](https://github.com/0skarmp)
 
 ## Link
-Project Link: [https://juanrcoder.github.io/Project-FAQ-accordion/](https://juanrcoder.github.io/Project-FAQ-accordion/)
+Project Link: [https://juanrcoder.github.io/Project-Landing_HVA/](https://juanrcoder.github.io/Project-Landing_HVA/)
 
 <!--
 [!NOTE]: Una nota general que proporciona información o contexto.
