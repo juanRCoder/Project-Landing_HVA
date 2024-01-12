@@ -1,5 +1,4 @@
 import "./Front.css";
-import DEMO from "./assets/DEMO_HVA.mp4";
 
 function Front() {
   return (
@@ -31,7 +30,13 @@ function Front() {
       <h1>Hotel Virtual Assitant</h1>
       <h5>“Descubre un servicio excepcional en cada interacción”</h5>
       <div className="boxButton2">
-        <video src={DEMO} controls></video>
+        <iframe
+          title="Demo Hotel Virtual Assitant"
+          width="640"
+          height="360"
+          src="https://www.youtube.com/embed/2-6Xt6ees0g"
+          allowFullScreen
+        ></iframe>
       </div>
     </section>
   );
