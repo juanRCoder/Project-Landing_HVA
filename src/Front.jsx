@@ -1,4 +1,5 @@
 import "./Front.css";
+import DEMO from "./assets/DEMO_HVA.mp4";
 
 function Front() {
   return (
@@ -30,14 +31,7 @@ function Front() {
       <h1>Hotel Virtual Assitant</h1>
       <h5>“Descubre un servicio excepcional en cada interacción”</h5>
       <div className="boxButton2">
-        <button className="CallAction">
-          <a
-            href="https://github.com/juanRCoder/Hotel_Virtual_Assitant"
-            target="_BLANK"
-          >
-            Aplicativo
-          </a>
-        </button>
+        <video src={DEMO} controls></video>
       </div>
     </section>
   );

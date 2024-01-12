@@ -69,27 +69,13 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  margin: 0px;
+  padding-top: 40px;
+  padding-bottom: 40px;
 }
-.boxButton2 > button {
-  padding: 10px 30px;
-  margin: 40px 0px;
-  border-radius: 13px;
-  background-color: #289c33;
-  text-align: center;
-  font-family: 'Inter', sans-serif;
-  font-size: 18px;
-  font-weight: 700;
-  cursor: pointer;
-  transition: box-shadow 0.5s ease;
-}
-.boxButton2 > button:hover {
-  text-shadow: 0 0 8px white;
-  box-shadow: 0px 0px 10px 3px #289c33;
-}
-.boxButton2 > button > a {
-  color: #fff;
-  text-decoration: none;
+video {
+  height: 370px;
+  width: 691px;
+  box-shadow: 0 0 25px 4px #333;
 }
 @media (max-width: 1024px) {
   .enlace {
